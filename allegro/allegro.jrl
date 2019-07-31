@@ -10058,4 +10058,129 @@
 \i (01:23:02) zoom in 1 
 \i (01:23:02) setwindow pcb
 \i (01:23:02) zoom in 41.327 23.009
-\i (01
+\i (01:23:02) trapsize 664
+\i (01:23:03) roam start
+\i (01:23:03) roam x -176
+\i (01:23:03) roam x -112
+\i (01:23:03) roam x -48
+\i (01:23:03) roam y -16
+\i (01:23:03) roam end
+\i (01:23:07) color192 
+\i (01:23:07) generaledit 
+\i (01:23:08) QtSignal CVDLayerTable VertHeader clickedCheckBox 0
+\i (01:23:08) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Top Pin
+\i (01:23:08) QtSignal CVDLayerTable VertHeader clickedCheckBox 1
+\i (01:23:08) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Bottom Pin
+\i (01:23:12) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (01:23:12) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (01:23:13) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (01:23:15) enved 
+\i (01:23:16) generaledit 
+\i (01:23:17) setwindow form.prfedit
+\i (01:23:17) FORM prfedit no_etch_shape_display NO 
+\i (01:23:17) FORM prfedit no_shape_fill NO 
+\i (01:23:18) FORM prfedit apply  
+\i (01:23:19) FORM prfedit done  
+\i (01:23:19) setwindow pcb
+\i (01:23:19) pick grid -11.770 37.079
+\t (01:23:19) last pick:  -12.000 37.200
+\i (01:23:19) redraw 
+\i (01:23:22) save 
+\i (01:23:23) fillin yes 
+   (01:23:23) Loading signal.cxt 
+\i (01:23:23) generaledit 
+\i (01:23:26) artwork 
+\i (01:23:27) setwindow form.film_control
+\i (01:23:27) FORM film_control select_all  
+\i (01:23:28) FORM film_control create  
+\i (01:23:29) fillin yes 
+\t (01:23:29) Checking db records
+\t (01:23:29)     checking for orphans...
+\t (01:23:29)     Checked 100 percent
+\t (01:23:29) Done dbdoctor.
+\t (01:23:29) Starting Create artwork films...
+\w (01:23:29) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (01:23:30) Artwork generated with warnings.
+\i (01:23:32) setwindow text
+\i (01:23:32) close 
+\i (01:23:33) setwindow form.film_control
+\i (01:23:33) FORM film_control cancel  
+\i (01:23:33) setwindow pcb
+\i (01:23:33) generaledit 
+\i (01:23:33) roam start
+\i (01:23:34) roam end
+\i (01:23:36) artwork 
+\i (01:23:39) setwindow form.film_control
+\i (01:23:39) FORM film_control select_all  
+\i (01:23:39) FORM film_control create  
+\i (01:23:40) fillin yes 
+\t (01:23:40) Checking db records
+\t (01:23:40)     checking for orphans...
+\t (01:23:40)     Checked 100 percent
+\t (01:23:40) Done dbdoctor.
+\t (01:23:40) Starting Create artwork films...
+\w (01:23:41) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (01:23:42) Artwork generated with warnings.
+\i (01:23:44) setwindow text
+\i (01:23:44) close 
+\i (01:23:45) setwindow form.film_control
+\i (01:23:45) FORM film_control cancel  
+\i (01:23:45) setwindow pcb
+\i (01:23:45) generaledit 
+\i (01:23:47) zoom out 1 
+\i (01:23:47) setwindow pcb
+\i (01:23:47) zoom out 126.018 48.495
+\i (01:23:47) trapsize 1327
+\i (01:24:05) save 
+\i (01:24:06) fillin yes 
+\i (01:24:06) generaledit 
+\i (01:28:28) zoom in 1 
+\i (01:28:28) setwindow pcb
+\i (01:28:28) zoom in 94.690 24.071
+\i (01:28:28) trapsize 664
+\i (01:28:29) zoom in 1 
+\i (01:28:29) setwindow pcb
+\i (01:28:29) zoom in 94.425 24.337
+\i (01:28:29) trapsize 332
+\i (01:28:29) roam start
+\i (01:28:29) roam x -112
+\i (01:28:29) roam y -48
+\i (01:28:29) roam x -16
+\i (01:28:29) roam y -16
+\i (01:28:29) roam x -48
+\i (01:28:29) roam y -16
+\i (01:28:29) roam x -16
+\i (01:28:29) roam y -16
+\i (01:28:29) roam x -48
+\i (01:28:29) roam y -16
+\i (01:28:29) roam x -32
+\i (01:28:29) roam y -16
+\i (01:28:30) roam x -48
+\i (01:28:30) roam x -32
+\i (01:28:30) roam y -16
+\i (01:28:30) roam x -48
+\i (01:28:30) roam x -32
+\i (01:28:30) roam x -32
+\i (01:28:30) roam x -48
+\i (01:28:30) roam x -32
+\i (01:28:30) roam x -16
+\i (01:28:30) roam x -32
+\i (01:28:30) roam x -64
+\i (01:28:30) roam x -48
+\i (01:28:30) roam x -16
+\i (01:28:30) roam x -16
+\i (01:28:30) roam x -16
+\i (01:28:30) roam x -32
+\i (01:28:30) roam y 16
+\i (01:28:30) roam x -16
+\i (01:28:30) roam x -16
+\i (01:28:30) roam x -16
+\i (01:28:30) roam y 16
+\i (01:28:30) roam x -16
+\i (01:28:30) roam x -16
+\i (01:28:30) roam y 16
+\i (01:28:31) roam end
+\i (01:28:31) zoom out 1 
+\i (01:28:31) setwindow pcb
+\i (01:28:31) zoom out 48.961 31.704
+\
