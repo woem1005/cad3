@@ -1,0 +1,132 @@
+\t (00:00:13) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:13)     Journal start - Wed Jul 31 14:47:53 2019
+\t (00:00:13)         Host=USER-PC User=user Pid=12780 CPUs=4
+\t (00:00:13) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession user C:\USERS\USER\DESKTOP\VSCODE_ORCAD\WORKSPACE\CAD3\allegro\CAD3.brd
+\t (00:00:13) 
+   (00:00:13) Loading axlcore.cxt 
+\t (00:00:21) Opening existing design...
+\d (00:00:21) Design opened: C:/USERS/USER/DESKTOP/VSCODE_ORCAD/WORKSPACE/CAD3/allegro/CAD3.brd
+\i (00:00:21) trapsize 642
+\i (00:00:21) trapsize 684
+\i (00:00:21) trapsize 684
+\i (00:00:21) trapsize 642
+\i (00:00:21) generaledit 
+\i (00:00:25) quickplace 
+\i (00:00:27) setwindow form.quickplc
+\i (00:00:27) FORM quickplc place  
+\w (00:00:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:00:27) Component(s) could not be placed.  See logfile for errors.
+\i (00:00:27) FORM quickplc done  
+\i (00:00:28) setwindow pcb
+\i (00:00:28) generaledit 
+\i (00:00:29) done 
+\i (00:00:29) place manual 
+\i (00:00:29) FORM plc_manual placement_list 
+\i (00:00:29) FORM plc_manual categories Components by refdes 
+\i (00:00:29) trapsize 642
+\i (00:00:31) setwindow form.plc_manual
+\i (00:00:31) FORM plc_manual tree 'MULTISEL YES' U3 'Components by refdes' 
+\t (00:00:31) Placing U3 / 74LS90_4_DIP14_3_74LS90_+5V / DIP14_3 on Top.
+\i (00:00:31) FORM plc_manual tree  U3 'Components by refdes' 
+\i (00:00:34) FORM plc_manual hide  
+\i (00:00:34) setwindow pcb
+\i (00:00:34) pick grid 3.825 78.107
+\t (00:00:34) last pick:  3.600 78.000
+\e (00:00:34) ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+\t (00:00:34) Placing U3 / 74LS90_4_DIP14_3_74LS90_+5V / DIP14_3 on Top.
+\i (00:00:37) done 
+\i (00:00:38) place manual 
+\i (00:00:38) FORM plc_manual placement_list 
+\i (00:00:38) FORM plc_manual categories Components by refdes 
+\i (00:00:38) trapsize 642
+\i (00:00:39) setwindow form.plc_manual
+\i (00:00:39) FORM plc_manual tree 'MULTISEL YES' U3 'Components by refdes' 
+\w (00:00:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:39) Placing U3 / 74LS90_4_DIP14_3_74LS90_+5V / DIP14_3 on Top.
+\i (00:00:39) FORM plc_manual tree  U3 'Components by refdes' 
+\i (00:00:41) FORM plc_manual qvpropwnd 'Name: DIP14_3Type: Symbol DefinitionUnits:         MillimetersAccuracy:   3Pins: 14' 
+\i (00:00:41) FORM plc_manual propbtn YES 
+\i (00:00:44) FORM plc_manual done  
+\i (00:00:45) setwindow pcb
+\i (00:00:45) generaledit 
+\i (00:00:45) pick grid 4.981 78.492
+\t (00:00:45) last pick:  4.800 78.000
+\i (00:00:47) pick grid 10.248 118.443
+\t (00:00:47) last pick:  10.800 118.800
+\i (00:00:51) xhilite 
+\i (00:00:51) xrefdes U3 
+\t (00:00:51) Can not select unplaced component U3.
+\t (00:00:51) Can not select unplaced component U3.
+\i (00:00:51) xname_flush 
+\i (00:00:51) done 
+\i (00:00:51) generaledit 
+\i (00:02:34) xhilite 
+\i (00:02:34) xname_flush 
+\i (00:02:34) done 
+\i (00:02:34) generaledit 
+\i (00:02:59) xdehilite 
+\i (00:02:59) xname_flush 
+\i (00:02:59) done 
+\i (00:02:59) generaledit 
+\i (00:03:03) xhilite 
+\i (00:03:03) xname_flush 
+\i (00:03:03) done 
+\i (00:03:03) generaledit 
+\i (00:03:06) xdehilite 
+\i (00:03:06) xname_flush 
+\i (00:03:06) done 
+\i (00:03:07) generaledit 
+\i (00:03:08) xhilite 
+\i (00:03:08) xname_flush 
+\i (00:03:08) done 
+\i (00:03:08) generaledit 
+\i (00:03:09) xdehilite 
+\i (00:03:10) xname_flush 
+\i (00:03:10) done 
+\i (00:03:10) generaledit 
+\i (00:03:10) xhilite 
+\i (00:03:11) xname_flush 
+\i (00:03:11) done 
+\i (00:03:11) generaledit 
+\i (00:03:12) xhilite 
+\i (00:03:12) xname_flush 
+\i (00:03:12) done 
+\i (00:03:12) generaledit 
+\i (00:03:25) xhilite 
+\i (00:03:25) xname_flush 
+\i (00:03:25) done 
+\i (00:03:25) generaledit 
+\i (00:03:27) xdehilite 
+\i (00:03:27) xname_flush 
+\i (00:03:27) done 
+\i (00:03:27) generaledit 
+\i (00:03:29) xhilite 
+\i (00:03:29) xname_flush 
+\i (00:03:29) done 
+\i (00:03:29) generaledit 
+\i (00:04:07) xhilite 
+\i (00:04:07) xname_flush 
+\i (00:04:07) done 
+\i (00:04:07) generaledit 
+\i (00:04:10) xdehilite 
+\i (00:04:10) xname_flush 
+\i (00:04:10) done 
+\i (00:04:10) xhilite 
+\i (00:04:10) xname_flush 
+\i (00:04:10) done 
+\i (00:04:10) generaledit 
+\i (00:04:15) xhilite 
+\i (00:04:15) xname_flush 
+\i (00:04:15) done 
+\i (00:04:15) generaledit 
+\i (00:04:43) xhilite 
+\i (00:04:43) xrefdes U3 
+\t (00:04:43) Can not select unplaced component U3.
+\t (00:04:43) Can not select unplaced component U3.
+\i (00:04:43) xname_flush 
+\i (00:04:43) done 
+\i (00:04:43) generaledit 
+\i (00:06:07) exit 
+\e (00:06:07) Do you want to save the changes you made to CAD3.brd?
+\i (00:06:08) fillin yes 
+\t (00:06:09)     Journal end - Wed Jul 31 14:53:48 2019
